@@ -2,7 +2,7 @@
 
 <h1>I'm Lassana! Dedicated Cybersecurity Analyst</h1>
 
-<h2>👨‍💻 My Projects:</h2>
+<h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Pojects</b>
   - [Creating a live SOC/Hnoneynet in Azure](https://github.com/LassanaB/Azure-SOC)
