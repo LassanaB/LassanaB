@@ -9,7 +9,7 @@
 
 <h2>👨‍💻 Security Incident Implementation Projects:</h2>
 
-- [Incident Handler Journal-Journal](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Incident-Handler-Journal]()
 - [Alert Ticket](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Incident Final Report.](https://www.youtube.com/watch?v=N-L9hklSlNk)
 - [Vulnerability Assessment Report](https://www.youtube.com/watch?v=OfvdQeh79s0)
