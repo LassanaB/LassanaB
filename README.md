@@ -6,8 +6,9 @@
 
 - <b>Azure / Cloud Cybersecurity Pojects</b>
   - [Creating a live SOC/Hnoneynet in Azure](https://github.com/LassanaB/Azure-SOC)
-
-<h2>👨‍💻 Security Incident Implementation Management Projects:</h2>
+    
+-
+<h2>Security Incident Implementation Management Projects:</h2>
 
 - [Incident-Handler-Journal]()
 - [Alert Ticket](https://www.youtube.com/watch?v=uHy3oM7NnoU)
