@@ -1,19 +1,28 @@
 ## Hi there 👋
 
-<h1>I'm Lassana! Dedicated Cybersecurity Analyst</h1>
+<h1>I'm Lassana! a Dedicated Cybersecurity Analyst</h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Pojects</b>
   - [Creating a live SOC/Hnoneynet in Azure](https://github.com/LassanaB/Azure-SOC)
 
-<h2>👨‍💻 Security Incident Implementation Projects</h2>
+<h2>👨‍💻 Security Incident Implementation Projects:</h2>
 
 - [Incident Handler Journal-Journal](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Alert Ticket](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Incident Final Report.](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Vulnerability Assessment Report](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Controls and compliance checklist](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Apply filters to SQL queries](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [File permissions in Linux](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [NIST 800-30 REV.1 Self Vulnerability Assessment Report](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Fishing Incident Response Playbook](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+- [Update a file through Python algorithm](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+  
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
