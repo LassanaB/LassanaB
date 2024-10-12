@@ -5,7 +5,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Cybersecurity Pojects</b>
-  - [Creating a live SOC/Honeynet in Azure](https://github.com/LassanaB/Azure-SOC)
+  - [Creating a live SOC / Honeynet in Azure](https://github.com/LassanaB/Azure-SOC)
     
 <h2>Security Incident Implementation Management Projects:</h2>
 
