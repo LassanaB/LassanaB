@@ -22,7 +22,7 @@
  - [Fishing Incident Response Playbook](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects-/blob/main/Phishing-incident-response-playbook.pdf)
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 Connect with me:</h2> 
 
 
 
