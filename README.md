@@ -7,7 +7,8 @@
 - <b>Azure / Cloud Cybersecurity Pojects</b>
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LassanaB/Azure-SOC)
     
-<h2>Security Incident Implementation Management Projects:</h2>
+<h2>👨‍💻 Security Incident Implementation Management Projects:</h2>
+  - [Incident Response adn Implementation](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects-)
 
 - [Incident Response NIST 800-61]()
 - [Incident-Handler-Journal]()
