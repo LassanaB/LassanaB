@@ -9,9 +9,7 @@
     
 <h2>👨‍💻 Security Incident Implementation Management Projects:</h2>
 
-- <b>Azure / Cloud Cybersecurity Pojects</b>
-  - [Creating a live SOC / Honeynet in Azure]( https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects)
-  
+
  - [(Alert-ticket porfolio.pdf](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects-/blob/main/Alert-ticket%20porfolio.pdf))
 
 
