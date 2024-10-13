@@ -12,7 +12,7 @@
 - <b>Azure / Cloud Cybersecurity Pojects</b>
   - [Creating a live SOC / Honeynet in Azure]( https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects)
   
- - [Creating a live SOC / Honeynet in Azure](Alert-ticket porfolio.pdf)
+ - [(Alert-ticket porfolio.pdf](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects-/blob/main/Alert-ticket%20porfolio.pdf))
 
 
 <h2> 🤳 Connect with me:</h2>
