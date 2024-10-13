@@ -10,7 +10,7 @@
 <h2>👨‍💻 Security Incident Implementation Management Projects:</h2>
 
 
- - [(Alert-ticket porfolio.pdf](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects-/blob/main/Alert-ticket%20porfolio.pdf))
+ - [Alert ticket.pdf](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects-/blob/main/Alert-ticket%20porfolio.pdf)
 
 
 <h2> 🤳 Connect with me:</h2>
