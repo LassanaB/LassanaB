@@ -8,9 +8,10 @@
   - [Creating a live SOC / Honeynet in Azure](https://github.com/LassanaB/Azure-SOC)
     
 <h2>👨‍💻 Security Incident Implementation Management Projects:</h2>
-  - [Incident Response adn Implementation](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects-)
+  - [Incident Response adn Implementation](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects)
 
-- [Incident Response NIST 800-61]()
+- [Incident Response NIST 800-61](https://github.com/LassanaB/Security-Incident-Implementation-Management-Projects)
+
 - [Incident-Handler-Journal]()
 - [Alert Ticket](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 - [Incident Final Report.](https://www.youtube.com/watch?v=N-L9hklSlNk)
